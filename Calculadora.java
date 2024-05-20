@@ -15,7 +15,7 @@ public class Calculadora extends Operacoes{
         return a+b;
     }
 
-    // Exemplo de OverRiding (Sobreescrever) - Continuação do código
+    // Exemplo de Overriding (Sobreescrever) - Continuação do código
     @Override
     public double calculadoraMenos(double valorA, double valorB){
          double resultado = valorA - valorB;
